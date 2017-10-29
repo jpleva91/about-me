@@ -29,7 +29,7 @@ Goals:
 I would like to work at a Startup or Agency where I can make an impact and take a genuine interest on the projects I work on. Gaining perspective from a Startup is something that I am interested in and would like to learn more about.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I would be interested in a Full-Stack or Backend role. I would also be interested in anything that may link into a Business Analyst type role as well. 
+I am leaning towards a frontend engineering or backend developer role.
 
 ## Link to my resume: 
 [Here!](https://drive.google.com/file/d/0B1zoU_Wj7Qi3QTJaZmdFQkpqSkU/view?usp=sharing)
