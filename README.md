@@ -31,7 +31,7 @@ I would like to work at a Startup or Agency where I can make an impact and take 
 I would be interested in a Full-Stack or Backend role. I would also be interested in anything that may link into a Business Analyst type role as well. 
 
 ## Link to my resume: 
-[Here!](https://drive.google.com/file/d/0B1zoU_Wj7Qi3LTNoVUE3ZzJBa1k/view?usp=sharing)
+[Here!](https://drive.google.com/file/d/0B1zoU_Wj7Qi3QTJaZmdFQkpqSkU/view?usp=sharing)
 
 ## Link to my portfolio website: 
 
