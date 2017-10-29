@@ -1,7 +1,7 @@
 # About Me
 
 ## Before GA:
-I was working as a Sales Manager at a Denver located Subaru Dealership.
+I was working as a Sales Manager at a local Subaru Dealership.
 
 ## Outcomes support I need:
 Help updating my LinkedIn account, as well as what to include/omit from my resume.
@@ -23,6 +23,7 @@ Goals:
 
 ## Meetups I've attended:
 1. Developer Happy Hour (9/12)
+2. DenverScript (October)
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I would like to work at a Startup or Agency where I can make an impact and take a genuine interest on the projects I work on. Gaining perspective from a Startup is something that I am interested in and would like to learn more about.
